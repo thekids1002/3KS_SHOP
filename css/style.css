@@ -1,3 +1,17 @@
+@font-face {
+    src: url('../font/Signika/static/Signika-Regular.ttf');
+    font-family: "Signika";
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: "Signika", sans-serif;
+    box-sizing: border-box;
+}
+
 .header_top {
     background: none repeat scroll 0 0 #F0F0E9;
 }
