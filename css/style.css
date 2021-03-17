@@ -12,6 +12,10 @@
     box-sizing: border-box;
 }
 
+.header_logo {
+    height: 60px;
+}
+
 .header_top {
     background: none repeat scroll 0 0 #F0F0E9;
 }

@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="logo pull-left">
-                            <h2>LOGO -_-</h2>
+                            <img class="header_logo" src="./img/logo.svg" alt="Logo">
                         </div>
                         <div class="btn-group pull-right">
 
