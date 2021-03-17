@@ -92,7 +92,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="copyright text-center">
-                        <p>Copyright © <a href="https://fb.com/thekids.1002">Võ Hoàng Kiệt. </a>3KSTEAM.</p>
+                        <p>Copyright © <a href="https://fb.com/thekids.1002">Võ Hoàng1 Kiệt. </a>3KSTEAM.</p>
                     </div>
                 </div>
             </div>
