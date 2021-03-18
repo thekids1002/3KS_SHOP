@@ -1,1 +1,3 @@
-<p>đây là content</p>
+<div class="content" style="height: 100vh;">
+
+</div>
