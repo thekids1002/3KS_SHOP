@@ -1,8 +1,8 @@
 $(document).ready(function() {
-    $("#search_value").focus(function() {
-        $("#result_search").css("display", "block");
+    $("#search-inp").focusin(function() {
+        $("#result-search").css("display", "block");
     });
-    $("#search_value").focusout(function() {
-        $("#result_search").css("display", "none");
+    $("#search-inp").focusout(function() {
+        $("#result-search").css("display", "none");
     });
 });
