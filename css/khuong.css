@@ -1,3 +1,10 @@
+#search-btn {
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+}
+
 .modal-search {
     background: none !important;
     border: none;
@@ -50,7 +57,7 @@
     align-items: center;
 }
 
-.result-search-link div{
+.result-search-link div {
     display: flex;
     justify-content: space-around;
     align-items: center;

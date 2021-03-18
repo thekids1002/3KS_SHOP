@@ -1,18 +1,9 @@
-<?php
-include("./templates/header.php");
-?>
-
 <head>
     <link rel="stylesheet" href="./css/khuong.css">
 </head>
 
-<!-- Button search modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-    Search
-</button>
-
 <!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal fade" id="search_modal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content modal-search">
             <div class="modal-body">
@@ -51,17 +42,3 @@ include("./templates/header.php");
         </div>
     </div>
 </div>
-<?php
-include("./templates/footer.php");
-?>
-
-<script>
-    $(document).ready(function() {
-        $("#search_value").focus(function() {
-            $("#result_search").css("display", "block");
-        });
-        $("#search_value").focusout(function() {
-            $("#result_search").css("display", "none");
-        });
-    });
-</script>
