@@ -1,0 +1,265 @@
+a{
+  text-decoration: none !important;
+}
+.topbar>.container>{
+  display: inline;
+}
+
+.top-bar
+{
+  background: none repeat scroll 0 0 #8a8a5c;
+
+   padding : .5rem 0;
+  height: auto;
+ 
+}
+.top-bar a{
+  
+  font-size: .7rem;
+  color: rgb(53, 52, 52);
+  text-decoration: none;
+}
+.navbar-brand img{
+  height: 3rem;
+}   
+.navbar{
+  font-size: 1.15rem;
+  font-weight: 600;
+      /* etter-spacing: .1rem; */
+ /*  z-index: -1; */
+  /* box-shadow: 0 .5rem .5rem rgba(0,0,0,.1);} */
+}
+.social-icons{
+  float: right;
+}
+.social-icons>.nav{
+
+  display: inline-block;
+}
+.social-icons ul li{
+
+  margin-right: 10px;
+  display: inline-block;
+}
+.social-icons li{
+  text-align: center;
+  width: 30px;
+  height: 100%;
+ 
+}
+.social-icons li:hover {
+  background-color: rgb(163, 197, 228);
+  color: rgb(199, 59, 59);
+  transition: all 0.9s ease 0s;
+  -moz-transition: all 0.9s ease 0s;
+  -webkit-transition: all 0.9s ease 0s;
+  -o-transition: all 0.9s ease 0s;
+}
+
+
+/* middle */
+.header-middle .container .row {
+  border-bottom: 1px solid #f5f5f5;
+  margin-left: 0;
+  margin-right: 0;
+ 
+}
+
+.header-middle .container .row .col-sm-4 {
+  padding-left: 0;
+}
+
+.header-middle .container .row .col-sm-8 {
+  padding-right: 0;
+}
+.shop-menu ul li {
+  display: inline-block !important;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.shop-menu ul li:last-child {
+  display: inline-block !important;
+  padding-right: 0;
+}
+
+.shop-menu ul li a {
+
+  background: #FFFFFF;
+  color: #696763;
+
+  
+  font-size: 17px;
+  font-weight: 300;
+  
+  padding-right: 30px;
+  margin-top: 10px;
+}
+
+.shop-menu ul li a i {  
+  height: 100%;
+  margin-top: 20%;
+}
+.shop-menu>.nav{
+  float: right;
+  display: inline;
+}
+.shop-menu ul li a:hover {
+  color: #fe980f;
+  background: #fff;
+}
+.search{
+  float: right;
+}
+
+
+/* reponsive */
+@media screen and (max-width: 800px) {
+  .social-icons>.nav{
+
+      display: inline-block;
+  }
+  .social-icons ul li{
+      margin-right: 10px;
+      align-items: center ;
+      display: inline-block;
+  }
+  .social-icons{
+      
+      margin-left: 19%;
+      float: unset;
+  }
+  .logo{
+      margin-left: 32%;
+  }
+
+  .shop-menu ul li {
+      display: inline-block !important;
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+  
+  .shop-menu ul li:last-child {
+      display: inline-block !important;
+      padding-right: 0;
+  }
+  
+  .shop-menu ul li a {
+  
+      background: #FFFFFF;
+      color: #696763;
+      font-size: 17px;
+      font-weight: 300;
+      
+      padding-right: 30px;
+      margin-top: 10px;
+  }
+  
+  .shop-menu ul li a i {  
+      height: 100%;
+      margin-top: 20%;
+  }
+  .shop-menu>.nav{
+      float: left;
+      display: inline;
+      margin-left: 17%;
+  }
+  .shop-menu ul li a:hover {
+      color: #fe980f;
+      background: #fff;
+  }
+  .search{
+      float: left;
+  }
+  
+}
+
+
+/* footer css */
+.container{
+	max-width: 1170px;
+	margin:auto;
+}
+.row-footer{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-color: rgb(218, 214, 214);
+    padding: 30px 0;
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+.footer-col h4{
+	font-size: 18px;
+	color: #353434;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 500;
+	position: relative;
+}
+.footer-col h4::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #e91e63;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #333131;
+	text-decoration: none;
+	font-weight: 300;
+	color: #241f1f;
+	display: block;
+	transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+	color: #910909;
+	padding-left: 8px;
+}
+.footer-col>ul{
+  padding: 0px;
+}
+
+.footer-col .social-links a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255,255,255,0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #4e3030;
+	transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover{
+	color: #24262b;
+	background-color: #ffffff;
+}
+
+/*responsive*/
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+}
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+}
