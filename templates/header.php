@@ -32,6 +32,7 @@
                 </ul>
             </div>
         </div>
+<<<<<<< HEAD
         <div class="col-sm-6">
             <div class="social-icons">
                 <ul class="nav navbar-nav">
@@ -41,6 +42,34 @@
                     <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                 </ul>
+=======
+        <!--/header_top-->
+
+        <div class="header-middle">
+            <!--header-middle-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="logo pull-left">
+                            <img class="header_logo" src="./img/logo.svg" alt="Logo">
+                        </div>
+                        <div class="btn-group pull-right">
+
+                        </div>
+                    </div>
+                    <div class="col-sm-8">
+                        <div class="shop-menu pull-right">
+                            <ul class="nav navbar-nav">
+                                <li><a href="#"><i class="fa fa-user"></i> Account</a></li>
+                                <li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
+                                <li><a href="checkout.html"><i class="fa fa-crosshairs"></i> Checkout</a></li>
+                                <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
+                                <li><a href="login.html"><i class="fa fa-lock"></i> Login</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+>>>>>>> 036e4020458dfc1e5ad7c86c41a44a3240996d2a
             </div>
         </div>
     </div>
