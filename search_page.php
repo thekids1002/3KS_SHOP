@@ -58,8 +58,8 @@ include("./templates/search.php");
             </div> <!-- card.// -->
         </div>
 
-        <div class="col-9">
-            <div id="filter-panel" class="filter-panel">
+        <div class="col-9 row">
+            <div id="filter-panel" class="filter-panel col-12">
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <form class="form-inline" role="form">
@@ -69,11 +69,7 @@ include("./templates/search.php");
                                     <option value="low">Giá: Thấp đến cao</option>
                                     <option value="height">Giá: Cao đến thấp</option>
                                 </select>
-                            </div> <!-- form group [rows] -->
-                            <div class="form-group">
-                                <label class="filter-col" style="margin-right:2px;" for="pref-search">Tìm kiếm:</label>
-                                <input type="text" class="form-control input-sm" id="pref-search">
-                            </div><!-- form group [search] -->
+                            </div> 
                         </form>
                     </div>
                 </div>
