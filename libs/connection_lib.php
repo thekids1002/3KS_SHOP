@@ -15,13 +15,11 @@ class Connection
 {
     public $conn;
 
-    public function __construct()
-    {
+    public function __construct() {
         $this->connect();
     }
 
-    public function connect()
-    {
+    public function connect() {
         $HOST = "localhost";
         $USERNAME = "root";
         $PASSWORD = "";
@@ -35,8 +33,7 @@ class Connection
         }
     }
 
-    public function getList($sql)
-    {
+    public function getList($sql) {
         $return = array();
         $result = mysqli_query($this->conn, $sql);
         if (!$result) {
@@ -55,8 +52,7 @@ class Connection
         return $return;
     }
 
-    public function getRow($query)
-    {
+    public function getRow($query) {
         $result = mysqli_query($this->conn, $query);
         if (!$result) {
             return false; // câu truy vấn bị sai
@@ -77,8 +73,7 @@ class Connection
         return mysqli_query($this->conn, $sql);
     }
 
-    public function closeConnect()
-    {
+    public function closeConnect() {
         // đóng kết nối
         if ($this->conn) {
             mysqli_close($this->conn);
