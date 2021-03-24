@@ -1,7 +1,7 @@
 <?
 session_start();
-$_SESSION['username'] = "Kệt ml";
-$_SESSION['linkuser'] = "kiet.ml";
+// $_SESSION['username'] = "Kệt ml";
+// $_SESSION['linkuser'] = "http://www.kiet.ml";
 ?>
 
 <!DOCTYPE html>
