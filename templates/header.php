@@ -62,8 +62,10 @@ session_start();
       <div class="container">
         <div class="row">
           <div class="col-sm-4">
-            <div class="logo">
-              <img src="./img/logo/logo-2.png" alt="Lo">
+            <div class="logo d-flex h-100">
+              <a href="./index.php" class="h-100 d-flex">
+                <img src="./img/logo.svg" class="my-auto" alt="Lozz" style="height: 45px;">
+              </a>
             </div>
             <div class="btn-group">
 
@@ -74,17 +76,16 @@ session_start();
               <ul class="nav navbar-nav mx-auto">
                 <?php
                 if (!isset($_SESSION['username'])) {
-                  echo 
+                  echo
                   '
                     <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
                     <li><a href="login.html"><i class="fa fa-lock"></i> Login</a></li>
                   ';
-                }
-                else {
-                  echo 
+                } else {
+                  echo
                   '
                     <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-                    <li id="user-welcome" class="header_user-item"><a class="user_header" href="'.$_SESSION["linkuser"].'"><i class="fa fa-shopping-cart"></i> Hello '.$_SESSION['username'].'</a></li>
+                    <li id="user-welcome" class="header_user-item"><a class="user_header" href="' . $_SESSION["linkuser"] . '"><i class="fa fa-shopping-cart"></i> Hello ' . $_SESSION['username'] . '</a></li>
                     <li class="header_user-item"><a class="user_header" href="./templates/logout.php"><i class="fa fa-sign-out"></i> Logout</a></li>
                   ';
                 }
