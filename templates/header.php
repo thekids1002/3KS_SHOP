@@ -66,12 +66,24 @@
           <div class="col-sm-8">
             <div class="shop-menu">
               <ul class="nav navbar-nav">
-                <!--  <li><a href="#"><i class="fa fa-user"></i> Account</a></li>
-                      <li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
-                      <li><a href="checkout.html"><i class="fa fa-crosshairs"></i> Checkout</a></li>
-              -->
-                <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-                <li><a href="login.html"><i class="fa fa-lock"></i> Login</a></li>
+                <?php
+                session_start();
+                if (!isset($_SESSION['username'])) {
+                  echo 
+                  '
+                    <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
+                    <li><a href="login.html"><i class="fa fa-lock"></i> Login</a></li>
+                  ';
+                }
+                else {
+                  echo 
+                  '
+                    <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
+                    <li><a href="'.$_SESSION["linkuser"].'><i class="fa fa-shopping-cart"></i> Hello '.$_SESSION['username'].'</a></li>
+                    <li><a href="./templates/logout.php"><i class="fa fa-shopping-cart"></i> Logout</a></li>
+                  ';
+                }
+                ?>
               </ul>
             </div>
           </div>
@@ -88,7 +100,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
               <ul class="navbar-nav ml-left">
-                <li class="nav-item active">
+                <li class="nav-item">
                   <a class="nav-link" href="#">Home
                     <span class="sr-only">(current)</span>
                   </a>
