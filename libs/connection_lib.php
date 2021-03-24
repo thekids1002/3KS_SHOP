@@ -58,7 +58,7 @@ class Connection
             return false; // câu truy vấn bị sai
         }
 
-        $row = mysqli_fetch_assoc($result);
+        $row = mysqli_fetch_array($result);
 
         if ($row) {
             return $row;
