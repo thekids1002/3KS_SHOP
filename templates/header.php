@@ -1,3 +1,9 @@
+<?
+session_start();
+$_SESSION['username'] = "Kệt ml";
+$_SESSION['linkuser'] = "kiet.ml";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,7 +29,7 @@
   <div class="top-bar">
     <div class="container">
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-lg-6 col-12">
           <div class="contactinfo">
             <ul class="nav nav-pills">
               <li><a href="#"><i class="fa fa-phone"></i> +84 396.527.908 </a></li>
@@ -65,9 +71,8 @@
           </div>
           <div class="col-sm-8">
             <div class="shop-menu">
-              <ul class="nav navbar-nav">
+              <ul class="nav navbar-nav mx-auto">
                 <?php
-                session_start();
                 if (!isset($_SESSION['username'])) {
                   echo 
                   '
@@ -79,8 +84,8 @@
                   echo 
                   '
                     <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-                    <li><a href="'.$_SESSION["linkuser"].'><i class="fa fa-shopping-cart"></i> Hello '.$_SESSION['username'].'</a></li>
-                    <li><a href="./templates/logout.php"><i class="fa fa-shopping-cart"></i> Logout</a></li>
+                    <li id="user-welcome" class="header_user-item"><a class="user_header" href="'.$_SESSION["linkuser"].'"><i class="fa fa-shopping-cart"></i> Hello '.$_SESSION['username'].'</a></li>
+                    <li class="header_user-item"><a class="user_header" href="./templates/logout.php"><i class="fa fa-sign-out"></i> Logout</a></li>
                   ';
                 }
                 ?>
@@ -101,7 +106,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
               <ul class="navbar-nav ml-left">
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Home
+                  <a class="nav-link" href="./index.php">Home
                     <span class="sr-only">(current)</span>
                   </a>
                 </li>

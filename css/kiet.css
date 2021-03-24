@@ -179,7 +179,50 @@ a {
   float: right;
 }
 
+.header_user-item {
+  padding: 0 !important;
+  margin: 0 !important;
+  position: relative;
+}
+
+#user-welcome {
+  margin-right: 9px !important;
+}
+
+#user-welcome::before {
+  content: "";
+  width: 1px;
+  height: 40%;
+  background-color: #a7a7a7;
+  display: block;
+  position: absolute;
+  top: 70%;
+  transform: translateY(-50%);
+  right: -6px;
+}
+
+.user_header {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 /* reponsive */
+
+@media screen and (max-width:321px) {
+  .shop-menu ul li {
+    padding: 0;
+  }
+  .shop-menu ul li a {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+}
+
+@media screen and (max-width:769px) {
+  .social-icons {
+    display: none;
+  }
+}
 
 @media screen and (max-width: 800px) {
   .social-icons>.nav {
