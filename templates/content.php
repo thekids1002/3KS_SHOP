@@ -435,14 +435,14 @@
         </div>
         <div class="col-3">
           <div class="card-member">
-            <span>1</span>
+            <span>3</span>
             <div class="img-member">
               <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Vo Hoang Kiet</h3>
               <h4>MSV: 3119410215</h4>
-              <p>kietml@gmail.com</p>
+              <p>vohoangkiet.stt43@gmail.com</p>
             </div>
             <div class="info-member">
               <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
@@ -452,14 +452,14 @@
         </div>
         <div class="col-3">
           <div class="card-member">
-            <span>1</span>
+            <span>4</span>
             <div class="img-member">
               <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Ngo Phu Khang</h3>
               <h4>MSV: 3119410180</h4>
-              <p>khang@gmail.com</p>
+              <p>ngophukhang2001@gmail.com</p>
             </div>
             <div class="info-member">
               <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
