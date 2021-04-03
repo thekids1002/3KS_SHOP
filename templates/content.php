@@ -79,77 +79,68 @@
         <h1>What we offer</h1>
       </div>
       <div class="row">
-        <div class="col-4">
+        <div class="col-2">
           <div class="services-box">
-            <div class="col-3 box-left">
-              <div class="services-icon" style="background-image: url('./img/services/icon-01.png');"></div>
-            </div>
-            <div class="col-9 box-body">
-              <h3>Groming</h3>
-              <p>Let your pets enjoy the first-class grooming services provided by our certified and experienced groomers.</p>
-            </div>
+            <a href="" class="services-link">
+              <div class="services-icon">
+                <img src="./img/services/cat-icon.png" alt="">
+              </div>
+              <h3 class="services-title">Cats</h3>
+            </a>
           </div>
         </div>
 
-        <div class="col-4">
+        <div class="col-2">
           <div class="services-box">
-            <div class="col-3 box-left">
-              <div class="services-icon" style="background-image: url('./img/services/icon-02.png');"></div>
-            </div>
-            <div class="col-9 box-body">
-              <h3>Pet hotel</h3>
-              <p>At Puffles, we offer a safe & clean environment with playtime, exercises, healthy meals & more.</p>
-            </div>
+            <a href="" class="services-link">
+              <div class="services-icon">
+                <img src="./img/services/dog-icon.png" alt="">
+              </div>
+              <h3 class="services-title">Dogs</h3>
+            </a>
+          </div>
+        </div>
+        <div class="col-2">
+          <div class="services-box">
+            <a href="" class="services-link">
+              <div class="services-icon">
+                <img src="./img/services/bird-icon.png" alt="">
+              </div>
+              <h3 class="services-title">Bird</h3>
+            </a>
+          </div>
+        </div>
+        <div class="col-2">
+          <div class="services-box">
+            <a href="" class="services-link">
+              <div class="services-icon">
+                <img src="./img/services/snake-icon.png" alt="">
+              </div>
+              <h3 class="services-title">Snake</h3>
+            </a>
+          </div>
+        </div>
+        <div class="col-2">
+          <div class="services-box">
+            <a href="" class="services-link">
+              <div class="services-icon">
+                <img src="./img/services/cages-icon.png" alt="">
+              </div>
+              <h3 class="services-title">Cages</h3>
+            </a>
+          </div>
+        </div>
+        <div class="col-2">
+          <div class="services-box">
+            <a href="" class="services-link">
+              <div class="services-icon">
+                <img src="./img/services/food-icon.png" alt="">
+              </div>
+              <h3 class="services-title">Food</h3>
+            </a>
           </div>
         </div>
 
-        <div class="col-4">
-          <div class="services-box">
-            <div class="col-3 box-left">
-              <div class="services-icon" style="background-image: url('./img/services/icon-03.png');"></div>
-            </div>
-            <div class="col-9 box-body">
-              <h3>Dog daycare</h3>
-              <p>Our daytime guests enjoy playtime with other dogs in a safe and fun environment.</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-4">
-          <div class="services-box">
-            <div class="col-3 box-left">
-              <div class="services-icon" style="background-image: url('./img/services/icon-04.png');"></div>
-            </div>
-            <div class="col-9 box-body">
-              <h3>Dog training</h3>
-              <p>Our accredited pet trainers teach fun & eﬀective group & private classes through positive reinforcement.</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-4">
-          <div class="services-box">
-            <div class="col-3 box-left">
-              <div class="services-icon" style="background-image: url('./img/services/icon-05.png');"></div>
-            </div>
-            <div class="col-9 box-body">
-              <h3>Veterinary care</h3>
-              <p>Save your pet the discomfort of advanced illness & help save you the stress & expense of treatment.</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-4">
-          <div class="services-box">
-            <div class="col-3 box-left">
-              <div class="services-icon" style="background-image: url('./img/services/icon-06.png');"></div>
-            </div>
-            <div class="col-9 box-body">
-              <h3>Adoption</h3>
-              <p>Whether you adopt online or at a Puffles store near you, you’re helping change the life of a pet in need.</p>
-            </div>
-          </div>
-        </div>
 
       </div>
       <hr>
@@ -262,7 +253,7 @@
         </div>
       </div>
     </div>
-  </div>   
+  </div>
 
   <div class="banner justify-content-center">
     <img src="./img/banner/banner-02.jpg" alt="" class="w-100">
@@ -273,9 +264,9 @@
     </div>
   </div>
 
-<!-- ======================================= -->
-<!--             ABOUT SHOP                  -->
-<!-- ======================================= -->
+  <!-- ======================================= -->
+  <!--             ABOUT SHOP                  -->
+  <!-- ======================================= -->
 
   <div class="menu-section">
 
@@ -294,25 +285,25 @@
                 <li class="menu-item">
                   <h3><i class="fa fa-paw" aria-hidden="true"></i>Cat & Kitten</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                   </p>
                 </li>
                 <li class="menu-item">
                   <h3><i class="fa fa-paw" aria-hidden="true"></i>Dog & Puppy</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                   </p>
                 </li>
                 <li class="menu-item">
                   <h3><i class="fa fa-paw" aria-hidden="true"></i>Bird</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                   </p>
                 </li>
                 <li class="menu-item">
                   <h3><i class="fa fa-paw" aria-hidden="true"></i>Snake</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                   </p>
                 </li>
               </ul>
@@ -350,7 +341,7 @@
             </div>
           </div>
         </div>
-      </div>  
+      </div>
     </div>
     <div class="menu-box other-box">
       <div class="container">
@@ -367,25 +358,25 @@
                 <li class="menu-item">
                   <h3><i class="fa fa-paw" aria-hidden="true"></i>Cat & Kitten</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                   </p>
                 </li>
                 <li class="menu-item">
                   <h3><i class="fa fa-paw" aria-hidden="true"></i>Dog & Puppy</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                   </p>
                 </li>
                 <li class="menu-item">
                   <h3><i class="fa fa-paw" aria-hidden="true"></i>Bird</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                   </p>
                 </li>
                 <li class="menu-item">
                   <h3><i class="fa fa-paw" aria-hidden="true"></i>Snake</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                   </p>
                 </li>
               </ul>
@@ -397,5 +388,86 @@
     </div>
   </div>
 
+  <!-- ======================================= -->
+  <!--             ABOUT US                    -->
+  <!-- ======================================= -->
+
+  <div class="about-us">
+    <div class="container">
+      <div class="content-title">
+        <h1>My team</h1>
+        <p>Consectetur adipisicing elit.</p>
+      </div>
+      <div class="row">
+        <div class="col-3">
+          <div class="card-member">
+            <span>1</span>
+            <div class="img-member">
+              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+            </div>
+            <div class="descibtion-member">
+              <h3>Le Thai Thanh Son</h3>
+              <h4>MSV: 3119410354</h4>
+              <p>lethaithanhson018@gmail.com</p>
+            </div>
+            <div class="info-member">
+              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="card-member">
+            <span>2</span>
+            <div class="img-member">
+              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+            </div>
+            <div class="descibtion-member">
+              <h3>Tran Huu Khuong</h3>
+              <h4>MSV: 3119410204</h4>
+              <p>huukhuong.it@gmail.com</p>
+            </div>
+            <div class="info-member">
+              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="card-member">
+            <span>1</span>
+            <div class="img-member">
+              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+            </div>
+            <div class="descibtion-member">
+              <h3>Vo Hoang Kiet</h3>
+              <h4>MSV: 3119410215</h4>
+              <p>kietml@gmail.com</p>
+            </div>
+            <div class="info-member">
+              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="card-member">
+            <span>1</span>
+            <div class="img-member">
+              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+            </div>
+            <div class="descibtion-member">
+              <h3>Ngo Phu Khang</h3>
+              <h4>MSV: 3119410180</h4>
+              <p>khang@gmail.com</p>
+            </div>
+            <div class="info-member">
+              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
 </main>
