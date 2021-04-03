@@ -392,7 +392,7 @@
   <!--             ABOUT US                    -->
   <!-- ======================================= -->
 
-  <div class="about-us">
+  <div class="about-us" id="about-us">
     <div class="container">
       <div class="content-title">
         <h1>My team</h1>
@@ -469,5 +469,12 @@
         </div>
       </div>
     </div>
+  </div>
 
+  <!-- ======================================= -->
+  <!--             SCROLL TOP                  -->
+  <!-- ======================================= -->
+  <div class="scroll-top" id="scroll-top">
+    
+  </div>
 </main>

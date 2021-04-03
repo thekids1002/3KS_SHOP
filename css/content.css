@@ -471,6 +471,7 @@
     font-weight: 600;
     font-family: sans-serif;
     user-select: none;
+    z-index: -1;
 }
 
 .card-member .img-member {
@@ -501,6 +502,7 @@
 .card-member .descibtion-member h3 {
     font-size: 25px;
     color: var(--title-color);
+    z-index: 1;
 }
 
 .card-member .descibtion-member h4 {
@@ -509,11 +511,13 @@
     line-height: 18px;
     padding: 0;
     margin: 10px 0 0 0;
+    z-index: 1;
 }
 
 .card-member .descibtion-member p {
     font-size: 15px;
     color: var(--text-color);
+    z-index: 1;
 }
 
 .card-member .info-member {
