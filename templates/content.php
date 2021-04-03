@@ -403,7 +403,7 @@
           <div class="card-member">
             <span>1</span>
             <div class="img-member">
-              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+              <img src="./img/3KSTeam/Son.png" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Le Thai Thanh Son</h3>
@@ -420,7 +420,7 @@
           <div class="card-member">
             <span>2</span>
             <div class="img-member">
-              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+              <img src="./img/3KSTeam/Khuong.png" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Tran Huu Khuong</h3>
@@ -437,7 +437,7 @@
           <div class="card-member">
             <span>3</span>
             <div class="img-member">
-              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+              <img src="./img/3KSTeam/Kiet.png" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Vo Hoang Kiet</h3>
@@ -454,7 +454,7 @@
           <div class="card-member">
             <span>4</span>
             <div class="img-member">
-              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+              <img src="./img/3KSTeam/Khang.png" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Ngo Phu Khang</h3>
