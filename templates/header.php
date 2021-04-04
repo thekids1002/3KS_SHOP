@@ -26,7 +26,7 @@ session_start();
 
 
   <!-- TopBar -->
-  <div class="top-bar">
+  <div class="top-bar" id="top-bar">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-12">
