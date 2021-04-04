@@ -411,8 +411,8 @@
               <p>lethaithanhson018@gmail.com</p>
             </div>
             <div class="info-member">
-              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
-              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+              <a href="https://www.facebook.com/profile.php?id=100041348190068" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="https://zalo.me/0858686897" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
             </div>
           </div>
         </div>
@@ -428,8 +428,8 @@
               <p>huukhuong.it@gmail.com</p>
             </div>
             <div class="info-member">
-              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
-              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+              <a href="https://www.facebook.com/JB.TranHuuKhuong/" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="https://zalo.me/0786506577" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
             </div>
           </div>
         </div>
@@ -445,8 +445,8 @@
               <p>vohoangkiet.stt43@gmail.com</p>
             </div>
             <div class="info-member">
-              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
-              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+              <a href="https://www.facebook.com/thekids.1002" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="https://zalo.me/0396527908" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
             </div>
           </div>
         </div>
@@ -462,8 +462,8 @@
               <p>ngophukhang2001@gmail.com</p>
             </div>
             <div class="info-member">
-              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
-              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+              <a href="https://www.facebook.com/ngokhang2001sgunkey" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="https://zalo.me/0948214801" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
             </div>
           </div>
         </div>
