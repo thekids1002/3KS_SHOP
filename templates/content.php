@@ -62,7 +62,7 @@
   <!-- ======================================= -->
   <div class="row banner">
     <img src="./img/banner/banner.jpg" alt="" class="img-banner">
-    <div class="col-5 banner-content">
+    <div class="col-xl-5 col-lg-6 col-md-12 col-sm-12 banner-content">
       <h3>Sale up to 10%</h3>
       <h1 class="banner-title">Accesories For Pet<span class="dots">.</span></h1>
       <p>Make Your Pet's Day With Our Raange Of Pet accesories atPetoria today. Our Pet Bandanas are hanmade to the quality for your pet!</p>
@@ -79,7 +79,7 @@
         <h1>What we offer</h1>
       </div>
       <div class="row">
-        <div class="col-2">
+        <div class="col-xl-2 col-md-4 col-6">
           <div class="services-box">
             <a href="" class="services-link">
               <div class="services-icon">
@@ -90,7 +90,7 @@
           </div>
         </div>
 
-        <div class="col-2">
+        <div class="col-xl-2 col-md-4 col-6">
           <div class="services-box">
             <a href="" class="services-link">
               <div class="services-icon">
@@ -100,7 +100,7 @@
             </a>
           </div>
         </div>
-        <div class="col-2">
+        <div class="col-xl-2 col-md-4 col-6">
           <div class="services-box">
             <a href="" class="services-link">
               <div class="services-icon">
@@ -110,7 +110,7 @@
             </a>
           </div>
         </div>
-        <div class="col-2">
+        <div class="col-xl-2 col-md-4 col-6">
           <div class="services-box">
             <a href="" class="services-link">
               <div class="services-icon">
@@ -120,7 +120,7 @@
             </a>
           </div>
         </div>
-        <div class="col-2">
+        <div class="col-xl-2 col-md-4 col-6">
           <div class="services-box">
             <a href="" class="services-link">
               <div class="services-icon">
@@ -130,7 +130,7 @@
             </a>
           </div>
         </div>
-        <div class="col-2">
+        <div class="col-xl-2 col-md-4 col-6">
           <div class="services-box">
             <a href="" class="services-link">
               <div class="services-icon">
@@ -157,6 +157,11 @@
         <p>Ut enim ad minim veniam.</p>
       </div>
 
+      <span class="view-all">
+        <a href="" class="view-all-link">View all <i class="fa fa-angle-double-right view-all-icon" aria-hidden="true"></i>
+        </a>
+      </span>
+
       <div id="pd-carousel" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#pd-carousel" data-slide-to="0" class="active"></li>
@@ -174,7 +179,7 @@
                     <h2 class="card-title">Dog</h2>
                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button">Add To Cart</button>
+                    <button type="button" class="btn button button-second">Add To Cart</button>
                   </div>
                 </a>
               </div>
@@ -187,7 +192,7 @@
                     <h2 class="card-title">Dog</h2>
                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button">Add To Cart</button>
+                    <button type="button" class="btn button button-second">Add To Cart</button>
                   </div>
                 </a>
               </div>
@@ -200,7 +205,7 @@
                     <h2 class="card-title">Dog</h2>
                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button">Add To Cart</button>
+                    <button type="button" class="btn button button-second">Add To Cart</button>
                   </div>
                 </a>
               </div>
@@ -218,7 +223,7 @@
                     <h2 class="card-title">Dog</h2>
                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button">Add To Cart</button>
+                    <button type="button" class="btn button button-second">Add To Cart</button>
                   </div>
                 </a>
               </div>
@@ -231,7 +236,7 @@
                     <h2 class="card-title">Dog</h2>
                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button">Add To Cart</button>
+                    <button type="button" class="btn button button-second">Add To Cart</button>
                   </div>
                 </a>
               </div>
@@ -244,7 +249,7 @@
                     <h2 class="card-title">Dog</h2>
                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button">Add To Cart</button>
+                    <button type="button" class="btn button button-second">Add To Cart</button>
                   </div>
                 </a>
               </div>
@@ -471,10 +476,11 @@
     </div>
   </div>
 
-  <!-- ======================================= -->
-  <!--             SCROLL TOP                  -->
-  <!-- ======================================= -->
-  <div class="scroll-top" id="scroll-top">
-    
-  </div>
 </main>
+<!-- ======================================= -->
+<!--             SCROLL TOP                  -->
+<!-- ======================================= -->
+<div class="scroll-top" id="scroll-top">
+  <a href="#top-bar"><i class="fa fa-chevron-up" aria-hidden="true"></i>
+  </a>
+</div>
