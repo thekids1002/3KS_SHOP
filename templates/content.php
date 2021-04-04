@@ -408,7 +408,7 @@
           <div class="card-member">
             <span>1</span>
             <div class="img-member">
-              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+              <img src="./img/3KSTeam/Son.png" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Le Thai Thanh Son</h3>
@@ -416,8 +416,8 @@
               <p>lethaithanhson018@gmail.com</p>
             </div>
             <div class="info-member">
-              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
-              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+              <a href="https://www.facebook.com/profile.php?id=100041348190068" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="https://zalo.me/0858686897" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
             </div>
           </div>
         </div>
@@ -425,7 +425,7 @@
           <div class="card-member">
             <span>2</span>
             <div class="img-member">
-              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+              <img src="./img/3KSTeam/Khuong.png" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Tran Huu Khuong</h3>
@@ -433,8 +433,8 @@
               <p>huukhuong.it@gmail.com</p>
             </div>
             <div class="info-member">
-              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
-              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+              <a href="https://www.facebook.com/JB.TranHuuKhuong/" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="https://zalo.me/0786506577" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
             </div>
           </div>
         </div>
@@ -442,7 +442,7 @@
           <div class="card-member">
             <span>3</span>
             <div class="img-member">
-              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+              <img src="./img/3KSTeam/Kiet.png" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Vo Hoang Kiet</h3>
@@ -450,8 +450,8 @@
               <p>vohoangkiet.stt43@gmail.com</p>
             </div>
             <div class="info-member">
-              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
-              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+              <a href="https://www.facebook.com/thekids.1002" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="https://zalo.me/0396527908" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
             </div>
           </div>
         </div>
@@ -459,7 +459,7 @@
           <div class="card-member">
             <span>4</span>
             <div class="img-member">
-              <img src="https://dogily.vn/wp-content/uploads/2019/09/Chu-cho-Anuko-noi-tieng-tren-mang-xa-hoi.jpg" alt="" class="img-member--img">
+              <img src="./img/3KSTeam/Khang.png" alt="" class="img-member--img">
             </div>
             <div class="descibtion-member">
               <h3>Ngo Phu Khang</h3>
@@ -467,8 +467,8 @@
               <p>ngophukhang2001@gmail.com</p>
             </div>
             <div class="info-member">
-              <a href="" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
-              <a href="" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
+              <a href="https://www.facebook.com/ngokhang2001sgunkey" class="mem-fb-link"><i class="fa fa-facebook mem-fb-icon" aria-hidden="true"></i></a>
+              <a href="https://zalo.me/0948214801" class="mem-zalo-link"><img src="./img/content/link-icon/zalo-seeklogo.com.svg" alt="" class="mem-zalo-icon"></a>
             </div>
           </div>
         </div>
