@@ -399,7 +399,7 @@
         <p>Consectetur adipisicing elit.</p>
       </div>
       <div class="row">
-        <div class="col-3">
+        <div class="col-lg-3 col-sm-6 col-12 mx-auto">
           <div class="card-member">
             <span>1</span>
             <div class="img-member">
@@ -416,7 +416,7 @@
             </div>
           </div>
         </div>
-        <div class="col-3">
+        <div class="col-lg-3 col-sm-6 col-12 mx-auto">
           <div class="card-member">
             <span>2</span>
             <div class="img-member">
@@ -433,7 +433,7 @@
             </div>
           </div>
         </div>
-        <div class="col-3">
+        <div class="col-lg-3 col-sm-6 col-12 mx-auto">
           <div class="card-member">
             <span>3</span>
             <div class="img-member">
@@ -450,7 +450,7 @@
             </div>
           </div>
         </div>
-        <div class="col-3">
+        <div class="col-lg-3 col-sm-6 col-12 mx-auto">
           <div class="card-member">
             <span>4</span>
             <div class="img-member">
