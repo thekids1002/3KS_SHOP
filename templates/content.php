@@ -170,7 +170,7 @@
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="row">
-              <div class="col-xl-4 col-md-6 col-12 card">
+              <div class="col-4 card">
                 <a href="" class="card-link">
                   <div class="card-img">
                     <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
@@ -183,7 +183,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-xl-4 col-md-6 col-12 card">
+              <div class="col-4 card">
                 <a href="" class="card-link">
                   <div class="card-img">
                     <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
@@ -196,7 +196,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-xl-4 col-md-6 col-12 card">
+              <div class="col-4 card">
                 <a href="" class="card-link">
                   <div class="card-img">
                     <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
@@ -214,7 +214,7 @@
 
           <div class="carousel-item">
             <div class="row">
-              <div class="col-xl-4 col-md-6 col-12 card">
+              <div class="col-4 card">
                 <a href="" class="card-link">
                   <div class="card-img">
                     <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
@@ -227,7 +227,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-xl-4 col-md-6 col-12 card">
+              <div class="col-4 card">
                 <a href="" class="card-link">
                   <div class="card-img">
                     <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
@@ -240,7 +240,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-xl-4 col-md-6 col-12 card">
+              <div class="col-4 card">
                 <a href="" class="card-link">
                   <div class="card-img">
                     <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
@@ -278,12 +278,12 @@
     <div class="menu-box pets-box">
       <div class="container">
         <div class="row">
-          <div class="col-lg-5 col-md-12 col-12">
+          <div class="col-5">
             <div class="img-holder">
               <img src="./img/content/menu-content.jpg" alt="">
             </div>
           </div>
-          <div class="col-lg-6 offset-lg-1 col-md-12 col-12">
+          <div class="col-6 offset-1">
             <div class="menu-holder">
               <h2 class="menu-title">Pets<span class="dots">.</span></h2>
               <ul class="menu-list">
@@ -322,7 +322,7 @@
     <div class="menu-box service-box">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6 col-md-12 col-12">
+          <div class="col-6">
             <div class="menu-holder">
               <h2 class="menu-title">Shop Services<span class="dots">.</span></h2>
               <ul class="menu-list">
@@ -340,7 +340,7 @@
               <button type="button" class="ntn button button-primary">See more</button>
             </div>
           </div>
-          <div class="col-lg-5 offset-lg-1 col-md-12 col-12">
+          <div class="col-5 offset-1">
             <div class="img-holder">
               <img src="./img/content/menu-content-01.jpg" alt="">
             </div>
@@ -351,12 +351,12 @@
     <div class="menu-box other-box">
       <div class="container">
         <div class="row">
-          <div class="col-lg-5 col-md-12 col-12">
+          <div class="col-5">
             <div class="img-holder">
               <img src="./img/content/menu-content-02.jpg" alt="">
             </div>
           </div>
-          <div class="col-lg-6 offset-lg-1 col-md-12 col-12">
+          <div class="col-6 offset-1">
             <div class="menu-holder">
               <h2 class="menu-title">Items for pets<span class="dots">.</span></h2>
               <ul class="menu-list">
@@ -481,6 +481,5 @@
 <!--             SCROLL TOP                  -->
 <!-- ======================================= -->
 <div class="scroll-top" id="scroll-top">
-  <a href="#top-bar"><i class="fa fa-chevron-up" aria-hidden="true"></i>
-  </a>
+  <a href="#top-bar"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
 </div>
