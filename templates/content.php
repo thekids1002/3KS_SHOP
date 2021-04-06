@@ -1,5 +1,6 @@
 <head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" />
   <link rel="stylesheet" type="text/css" href="./css/content.css">
 </head>
 
@@ -66,7 +67,7 @@
       <h3>Sale up to 10%</h3>
       <h1 class="banner-title">Accesories For Pet<span class="dots">.</span></h1>
       <p>Make Your Pet's Day With Our Raange Of Pet accesories atPetoria today. Our Pet Bandanas are hanmade to the quality for your pet!</p>
-      <button type="button" class="btn button button-primary">Shop Now</button>
+      <button type="button" class="btn button button-primary"><span></span>Shop Now</button>
     </div>
   </div>
 
@@ -162,102 +163,100 @@
         </a>
       </span>
 
-      <div id="pd-carousel" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-          <li data-target="#pd-carousel" data-slide-to="0" class="active"></li>
-          <li data-target="#pd-carousel" data-slide-to="1"></li>
-        </ol>
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-xl-4 col-md-6 col-12 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
+      <div class="owl-carousel owl-theme">
+        <div class="item">
+          <div class="card">
+            <a href="" class="card-link">
+              <div class="card-img">
+                <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
               </div>
-              <div class="col-xl-4 col-md-6 col-12 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
+              <div class="card-body">
+                <h2 class="card-title">Dog</h2>
+                <p class="card-text truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <div class="product-price">200.000 <sup>đ</sup></div>
+                <button type="button" class="btn button button-second">Add To Cart</button>
               </div>
-              <div class="col-xl-4 col-md-6 col-12 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
-              </div>
-            </div>
+            </a>
           </div>
-
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-xl-4 col-md-6 col-12 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
+        </div>
+        <div class="item">
+          <div class="card">
+            <a href="" class="card-link">
+              <div class="card-img">
+                <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
               </div>
-              <div class="col-xl-4 col-md-6 col-12 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
+              <div class="card-body">
+                <h2 class="card-title">Dog</h2>
+                <p class="card-text truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <div class="product-price">200.000 <sup>đ</sup></div>
+                <button type="button" class="btn button button-second">Add To Cart</button>
               </div>
-              <div class="col-xl-4 col-md-6 col-12 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
+            </a>
+          </div>
+        </div>
+        <div class="item">
+          <div class="card">
+            <a href="" class="card-link">
+              <div class="card-img">
+                <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
               </div>
-            </div>
+              <div class="card-body">
+                <h2 class="card-title">Dog</h2>
+                <p class="card-text truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <div class="product-price">200.000 <sup>đ</sup></div>
+                <button type="button" class="btn button button-second">Add To Cart</button>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="item">
+          <div class="card">
+            <a href="" class="card-link">
+              <div class="card-img">
+                <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
+              </div>
+              <div class="card-body">
+                <h2 class="card-title">Dog</h2>
+                <p class="card-text truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <div class="product-price">200.000 <sup>đ</sup></div>
+                <button type="button" class="btn button button-second">Add To Cart</button>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="item">
+          <div class="card">
+            <a href="" class="card-link">
+              <div class="card-img">
+                <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
+              </div>
+              <div class="card-body">
+                <h2 class="card-title">Dog</h2>
+                <p class="card-text truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <div class="product-price">200.000 <sup>đ</sup></div>
+                <button type="button" class="btn button button-second">Add To Cart</button>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="item">
+          <div class="card">
+            <a href="" class="card-link">
+              <div class="card-img">
+                <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
+              </div>
+              <div class="card-body">
+                <h2 class="card-title">Dog</h2>
+                <p class="card-text truncate-2-line">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <div class="product-price">200.000 <sup>đ</sup></div>
+                <button type="button" class="btn button button-second">Add To Cart</button>
+              </div>
+            </a>
           </div>
         </div>
       </div>
     </div>
+  </div>
   </div>
 
   <div class="banner justify-content-center">
@@ -476,6 +475,7 @@
     </div>
   </div>
 
+
 </main>
 <!-- ======================================= -->
 <!--             SCROLL TOP                  -->
@@ -484,3 +484,26 @@
   <a href="#top-bar"><i class="fa fa-chevron-up" aria-hidden="true"></i>
   </a>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
+<script>
+  $('.owl-carousel').owlCarousel({
+    loop: true,
+    margin: 10,
+    nav: false,
+    autoplay: true,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true,
+    responsive: {
+      0: {
+        items: 1
+      },
+      600: {
+        items: 2
+      },
+      1000: {
+        items: 3
+      }
+    }
+  })
+</script>
