@@ -163,7 +163,6 @@
         </a>
       </span>
 
-<<<<<<< HEAD
       <div class="owl-carousel owl-theme">
         <div class="item">
           <div class="card">
@@ -185,54 +184,6 @@
             <a href="" class="card-link">
               <div class="card-img">
                 <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-=======
-      <div id="pd-carousel" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-          <li data-target="#pd-carousel" data-slide-to="0" class="active"></li>
-          <li data-target="#pd-carousel" data-slide-to="1"></li>
-        </ol>
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-4 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
-              </div>
-              <div class="col-4 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
-              </div>
-              <div class="col-4 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
->>>>>>> f6072cc881a72c34c1b99113277c66bfb14c9e5f
               </div>
               <div class="card-body">
                 <h2 class="card-title">Dog</h2>
@@ -242,7 +193,6 @@
               </div>
             </a>
           </div>
-<<<<<<< HEAD
         </div>
         <div class="item">
           <div class="card">
@@ -264,49 +214,6 @@
             <a href="" class="card-link">
               <div class="card-img">
                 <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-=======
-
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-4 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
-              </div>
-              <div class="col-4 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
-              </div>
-              <div class="col-4 card">
-                <a href="" class="card-link">
-                  <div class="card-img">
-                    <img src="https://timesofindia.indiatimes.com/photo/67586673.cms" alt="product" class="card-img-top">
-                  </div>
-                  <div class="card-body">
-                    <h2 class="card-title">Dog</h2>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <div class="product-price">200.000 <sup>đ</sup></div>
-                    <button type="button" class="btn button button-second">Add To Cart</button>
-                  </div>
-                </a>
->>>>>>> f6072cc881a72c34c1b99113277c66bfb14c9e5f
               </div>
               <div class="card-body">
                 <h2 class="card-title">Dog</h2>
@@ -349,7 +256,6 @@
         </div>
       </div>
     </div>
-  </div>
   </div>
 
   <div class="banner justify-content-center">
@@ -574,7 +480,6 @@
 <!--             SCROLL TOP                  -->
 <!-- ======================================= -->
 <div class="scroll-top" id="scroll-top">
-<<<<<<< HEAD
   <a href="#top-bar"><i class="fa fa-chevron-up" aria-hidden="true"></i>
   </a>
 </div>
@@ -601,7 +506,3 @@
     }
   })
 </script>
-=======
-  <a href="#top-bar"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
-</div>
->>>>>>> f6072cc881a72c34c1b99113277c66bfb14c9e5f
