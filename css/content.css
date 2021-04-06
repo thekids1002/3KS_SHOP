@@ -696,9 +696,3 @@ main>.container {
     background: var(--second-color-hover);
     color: var(--second-color-hover) !important;
 }
-
-@media screen and (max-width :576) {
-    .carousel-content h2 {
-        /* max-width: ; */
-    }
-}
