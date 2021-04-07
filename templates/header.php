@@ -107,7 +107,7 @@ session_start();
             <div class="collapse navbar-collapse" id="navbarResponsive">
               <ul class="navbar-nav ml-left">
                 <li class="nav-item">
-                  <a class="nav-link" href="./index.php">Home
+                  <a class="nav-link" href="#top-bar">Home
                     <span class="sr-only">(current)</span>
                   </a>
                 </li>
